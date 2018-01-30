@@ -1,0 +1,18 @@
+{
+    "name": "woeplanet/woeplanet-utils",
+    "description": "Utility and support classes for Woeplanet",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Gary Gale",
+            "email": "gary@vicchi.org"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Woeplanet\\": "Woeplanet"
+        }
+    }    
+}
